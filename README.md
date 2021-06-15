@@ -1,5 +1,5 @@
 # graph-gui
-NETS 150 Final Project (Spring 2021)
+NETS 150 final project (Spring 2021)
 
 ## Authors: 
 Matt Friedman, Emily Paul, Sara Xin, Hetvi Shah
